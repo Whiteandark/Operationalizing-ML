@@ -198,15 +198,7 @@ after runing the Notepook 'aml-pipelines-with-automated-machine-learning-step' i
 
 
 
-***
-## Screen Recording
 
-The screen recording can be found [here](https://youtu.be/0AKGw1YOcXw) and it shows the project in action. More specifically, the screencast demonstrates:
-
-* The working deployed ML model endpoint
-* The deployed Pipeline
-* Available AutoML Model
-* Successful API requests to the endpoint with a JSON payload
 
 
 ***
